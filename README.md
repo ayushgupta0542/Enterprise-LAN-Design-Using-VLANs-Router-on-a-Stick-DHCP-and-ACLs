@@ -12,3 +12,6 @@ e) All devices should receive IP addresses automatically from a DHCP server conf
 f) ACL restriction: Sales VLAN (VLAN 20) should NOT be able to reach the IT VLAN (VLAN 30), but all other communication should be allowed.
 
 # Network Topology
+![image alt](https://github.com/ayushgupta0542/Enterprise-LAN-Design-Using-VLANs-Router-on-a-Stick-DHCP-and-ACLs/blob/60e9a2f76a6c8a9339b5dc42d0553eff79098000/Network%20Topology.png)
+
+# VLAN Creation
