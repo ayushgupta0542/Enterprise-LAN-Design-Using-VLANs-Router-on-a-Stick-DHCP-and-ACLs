@@ -34,7 +34,7 @@ Implemented Access Control Lists (ACLs) to control and filter network traffic by
 # Technologies Used
 Cisco Packet Tracer, Cisco IOS CLI, VLANs , 802.1Q Trunking , Router on a Stick , DHCP , ACLs , IPv4 Addressing , Subnetting
 
-#Lab Outcomes
+# Lab Outcomes
 Designed an enterprise LAN with VLAN-based segmentation.
 Configured Router on a Stick for inter-VLAN routing.
 Implemented DHCP for automatic host configuration.
