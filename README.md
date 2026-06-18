@@ -25,6 +25,7 @@ Configured IEEE 802.1Q trunk links in Cisco Packet Tracer to carry traffic from 
 
 # Router On A Stick
 Implemented Inter-VLAN Routing using the Router-on-a-Stick architecture by configuring IEEE 802.1Q trunking and router subinterfaces. Assigned default gateways for each VLAN, enabled Layer 3 communication between segmented networks, and verified routing functionality through connectivity and troubleshooting commands.
+![image alt](https://github.com/ayushgupta0542/Enterprise-LAN-Design-Using-VLANs-Router-on-a-Stick-DHCP-and-ACLs/blob/351bf123a1ba281e45e19534649f0e09b00c8a67/Router%20on%20a%20stick.png)
 
 
 
