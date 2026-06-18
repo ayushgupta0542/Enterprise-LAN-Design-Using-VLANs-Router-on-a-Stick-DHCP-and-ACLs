@@ -15,3 +15,5 @@ f) ACL restriction: Sales VLAN (VLAN 20) should NOT be able to reach the IT VLAN
 ![image alt](https://github.com/ayushgupta0542/Enterprise-LAN-Design-Using-VLANs-Router-on-a-Stick-DHCP-and-ACLs/blob/60e9a2f76a6c8a9339b5dc42d0553eff79098000/Network%20Topology.png)
 
 # VLAN Creation
+Configured VLAN segmentation in Cisco Packet Tracer to logically separate network traffic, improve security, and enable efficient communication between departments.
+![image alt](
