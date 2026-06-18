@@ -16,6 +16,11 @@ f) ACL restriction: Sales VLAN (VLAN 20) should NOT be able to reach the IT VLAN
 
 # VLAN Creation
 Configured VLAN segmentation in Cisco Packet Tracer to logically separate network traffic, improve security, and enable efficient communication between departments.
+Three Departments were created as Admin, Sales, IT and are logically separate network traffic.
 ![image alt](https://github.com/ayushgupta0542/Enterprise-LAN-Design-Using-VLANs-Router-on-a-Stick-DHCP-and-ACLs/blob/fa83d5db7f5f9f1ff34f95f15b16fb6557b0ec5d/VLAN%20on%20Switch%201.png)
+
+# Trunking
+Configured IEEE 802.1Q trunk links in Cisco Packet Tracer to carry traffic from multiple VLANs across switches and enable efficient network segmentation.
+![image alt]()
 
 
