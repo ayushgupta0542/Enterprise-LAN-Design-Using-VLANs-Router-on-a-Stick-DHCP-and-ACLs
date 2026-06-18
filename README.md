@@ -29,6 +29,7 @@ Implemented Inter-VLAN Routing using the Router-on-a-Stick architecture by confi
 
 # Access Control Lists (ACLs)
 Implemented Access Control Lists (ACLs) to control and filter network traffic by source IP address, destination IP address, protocol and port numbers. Applied standard and extended ACLs to enforce security policies, stop unauthorized access between VLANs and allow only necessary communication while maintaining network connectivity.
+![alt image](https://github.com/ayushgupta0542/Enterprise-LAN-Design-Using-VLANs-Router-on-a-Stick-DHCP-and-ACLs/blob/4c75a8fe3244cb2849588f9df81e0fcaf1cdd16a/ACL%20Restriction.png)
 
 
 
