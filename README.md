@@ -21,6 +21,6 @@ Three Departments were created as Admin, Sales, IT and are logically separate ne
 
 # Trunking
 Configured IEEE 802.1Q trunk links in Cisco Packet Tracer to carry traffic from multiple VLANs across switches and enable efficient network segmentation.
-![image alt]()
+![image alt](https://github.com/ayushgupta0542/Enterprise-LAN-Design-Using-VLANs-Router-on-a-Stick-DHCP-and-ACLs/blob/a7d85afcace360cb84cdace8c2d047c69d6f1f6a/VLAN%20on%20Switch%201.png)
 
 
