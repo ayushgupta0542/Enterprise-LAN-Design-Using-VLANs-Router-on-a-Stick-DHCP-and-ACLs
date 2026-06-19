@@ -31,8 +31,11 @@ Implemented Inter-VLAN Routing using the Router-on-a-Stick architecture by confi
 Implemented Access Control Lists (ACLs) to control and filter network traffic by source IP address, destination IP address, protocol and port numbers. Applied standard and extended ACLs to enforce security policies, stop unauthorized access between VLANs and allow only necessary communication while maintaining network connectivity.
 ![alt image](https://github.com/ayushgupta0542/Enterprise-LAN-Design-Using-VLANs-Router-on-a-Stick-DHCP-and-ACLs/blob/4c75a8fe3244cb2849588f9df81e0fcaf1cdd16a/ACL%20Restriction.png)
 
+# Software used
+Cisco Packet Tracer
+
 # Technologies Used
-Cisco Packet Tracer, Cisco IOS CLI, VLANs , 802.1Q Trunking , Router on a Stick , DHCP , ACLs , IPv4 Addressing , Subnetting
+VLANs , 802.1Q Trunking , Router on a Stick , DHCP , ACLs , IPv4 Addressing , Subnetting
 
 # Lab Outcomes
 Designed an enterprise LAN with VLAN-based segmentation.
